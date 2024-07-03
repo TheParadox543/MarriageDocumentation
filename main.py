@@ -28,6 +28,7 @@ JOBS = [
         "salary": "Rs 20,000",
     },
 ]
+TEST = {1, 2, 4, 5}
 
 
 @app.route("/")
